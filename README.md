@@ -35,7 +35,7 @@ import json
 from prompts import CV_REVIEW_PROMPT  # <--- Step 1: Import your prompt
 
 # AI API config
-API_URL ="https://api.openai.com/v1/chat/completions" 
+API_URL ="curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent" \
 API_KEY = "AIzaSyAFkgo2DT1HUMzd6AFP8yUNli6Skqn2vNU"
 
 def connect_to_ai(prompt):
