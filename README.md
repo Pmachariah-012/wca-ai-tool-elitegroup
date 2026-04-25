@@ -76,6 +76,10 @@ def main():
         print(feedback)
     else:
         print("No CV text provided. Exiting.")
+# conclusion
+the cv reviewer works with different cv
+it analyses only cv
+
 
 if __name__ == "__main__":
     main()
