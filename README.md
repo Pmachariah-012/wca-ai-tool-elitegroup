@@ -54,6 +54,7 @@ def connect_to_ai(prompt):
         return f"Error connecting to AI API: {e}"
 
 def handle_request(cv_text):
+
     # Step 2: Use the imported prompt and inject the CV text
     # This replaces the {cv_text} placeholder in prompts.py with the user's input
     full_prompt = CV_REVIEW_PROMPT.format(cv_text=cv_text)
@@ -81,6 +82,6 @@ if __name__ == "__main__":
 * The CV reviewer works with different CVs
 * It analyses only CVs
 # Suggestions in improving the reviewer
-* by making it analyse a cv out of 100 
-* making it give suggestions on what experiences and skils lacking in the cv
+* By making it analyse a cv out of 100 
+* Making it give suggestions on what experiences and skils lacking in the cv
  
