@@ -80,9 +80,9 @@ if __name__ == "__main__":
     main()
         
 # conclusion
-the cv reviewer works with different cv
-it analyses only cv
+* the cv reviewer works with different cv
+* it analyses only cv
 # suggestions in improving the reviewer
-by making it analyse a cv out of 100 
-making it give suggestions on what experiences and skils lacking in the cv
+* by making it analyse a cv out of 100 
+* making it give suggestions on what experiences and skils lacking in the cv
  
