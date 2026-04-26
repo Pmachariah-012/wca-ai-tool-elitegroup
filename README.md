@@ -36,7 +36,7 @@ import requests
 import json
 from prompts import CV_REVIEW_PROMPT  # <--- Step 1: Import your prompt
 
-# AI API config
+# API configuration
 API_URL ="curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent" \
 API_KEY = "AIzaSyAFkgo2DT1HUMzd6AFP8yUNli6Skqn2vNU"
 
