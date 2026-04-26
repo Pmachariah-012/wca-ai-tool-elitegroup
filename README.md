@@ -1,4 +1,4 @@
-# WCA AI CV Reviewer Tool
+# AI CV Reviewer Tool
 
 ##  Project Overview
 The **CV Reviewer Tool** is a Python-based application designed to provide professional, automated feedback on resumes. By leveraging AI API integration and advanced prompt engineering, the tool analyzes CV content to help users improve their professional presentation.
@@ -8,10 +8,14 @@ This project was developed as part of the **Elite Group** collaboration, focusin
 ---
 
 ##  Features
-* **R-T-C-C-O Prompting:** Utilizes a robust prompt framework (Role, Task, Context, Constraints, Output) for high-accuracy reviews.
-* **JSON Data Formatting:** All reviews are parsed into JSON for clean, structured, and readable output.
-* **CLI Interface:** Simple command-line operations for user input and processing.
-* **Personalized Feedback:** Tailors suggestions based on specific user career goals and background.
+* **R-T-C-C-O Prompting:**
+Utilizes a robust prompt framework (Role, Task, Context, Constraints, Output) for high-accuracy reviews.
+* **JSON Data Formatting:**
+All reviews are parsed into JSON for clean, structured, and readable output.
+* **CLI Interface:**
+Simple command-line operations for user input and processing.
+* **Personalized Feedback:**
+Tailors suggestions based on specific user career goals and background.
 
 ---
 
